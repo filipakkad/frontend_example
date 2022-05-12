@@ -1,0 +1,1 @@
+export { VOIVODESHIPS } from './voivodeships';
